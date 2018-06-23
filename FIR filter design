@@ -1,0 +1,8 @@
+FIR (finite impulse response) design 
+In this part we want to design a FIR filter. Designin a DT filter with the same specification az those of the previous example.
+In the first place we must calculate several parameters such as A,M, β and of course w[n] shape then we multiply to a sinc function then we have desire h[d] 	 
+	
+     
+
+
+
